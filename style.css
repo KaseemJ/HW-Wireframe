@@ -1,0 +1,104 @@
+body {
+    font-family: Arial, 'Helvetica Neue', sans-serif;
+    width: 960px;
+    font-size: 18px;
+    background: color #777;
+    background-color: #777;
+    margin-left: 10%;
+    
+}
+
+#head {
+    background: #ebebeb;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    margin: 20px;
+    padding-top: 30px;
+
+}
+
+#nav {
+    background: #ebebeb;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    margin: 20px;
+    padding-top: 30px;
+}
+
+#sect{
+    background: #ebebeb;
+    float: left;
+    width:495px;
+    height: 495px;
+    margin: 20px;
+    text-align: center;
+    padding-top: 30px;
+
+}
+
+#art {
+    color: #ebebeb;
+    background: #777;
+    float: left;
+    height: 400px;
+    width:400px;
+    margin: 45px;
+    padding-top: 10px;
+    text-align: center;
+    overflow: auto;
+    
+}
+
+#aside {
+    background: #ebebeb;
+    float: right;
+    width:400px;
+    height: 495px;
+    margin: 20px;
+    text-align: center;
+    padding-top: 30px;
+    margin-right: -18px
+   
+}
+
+#foot {
+    background: #ebebeb;
+    clear: both;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    margin: 20px;
+    padding-top: 30px;
+    
+}
+
+#headers {
+    color: #777;
+    background: #ebebeb;
+    float: left;
+    height: 50px;
+    width:350px;
+    text-align: center;
+    margin-top: 70px;
+    padding: 5px;
+    padding-top: 10px;
+    margin-left: 5%;
+    
+  
+}
+
+#para {
+    background: #ebebeb;
+    color: #777;
+    float: left;
+    height: 50px;
+    width:350px;
+    margin-top: 30px;
+    text-align: center; 
+    padding: 5px;
+    padding-top: 10px;
+    margin-left: 5%;
+
+}
